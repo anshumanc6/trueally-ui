@@ -1,0 +1,23 @@
+.InsuranceContainer {
+    min-height: 100%;
+    min-width: calc(100% - 200px);
+    background: #f5faff;
+}
+
+.Header {
+    margin-top: 20px;
+}
+
+.SearchBox {
+    margin-top: 20px;
+}
+
+.InsuranceDisplayContainer {
+    background: white;
+    border-radius: 5px;
+    min-width: 100%;
+}
+
+.IFormData {
+    padding: 35px 0;
+}
